@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=JPetStore_JS_Array
+project.version=8.10
+project.original.version=8.7
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+product.original.version=9.2.0
+project.is-open-test-settings-after-upload=false
+project.id=6ff7194e-53ba-469d-978f-61aa6f60e027
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+monitor.tls.insecure=false
+team.server.project=/annecleo/neotest.git

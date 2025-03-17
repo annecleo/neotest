@@ -1,0 +1,53 @@
+<lg-host browserBasedSupport="true" citrixSupport="false"
+    hostname="localhost:7100" loadWeight="1" sapSupport="false"
+    standalone="false" supportWANEmulation="false"
+    uid="3681cef1-f3ce-4b93-bca7-a64a362109a0" version="2024.3.0;build=20241031-38">
+    <!--****** LG NETWORK INTERFACES ******-->
+    <lg-networkiface description="Intel(R) Wi-Fi 7 BE200 320MHz"
+        enabled="false" isLoopBack="false" name="wlan1">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="tri-6fnvj64">
+            <ip value="10.50.121.166"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="fe80:0:0:0:2ead:ce1a:996:ece8%wlan1">
+            <ip value="fe80:0:0:0:2ead:ce1a:996:ece8%wlan1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Intel(R) Wi-Fi 7 BE200 320MHz #4"
+        enabled="false" isLoopBack="false" name="wlan0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:10f4:bffb:302e:520a%wlan0">
+            <ip value="fe80:0:0:0:10f4:bffb:302e:520a%wlan0"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Realtek USB GbE Family Controller #2"
+        enabled="false" isLoopBack="false" name="eth6">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:78fe:d4e9:3444:c830%eth6">
+            <ip value="fe80:0:0:0:78fe:d4e9:3444:c830%eth6"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface description="Software Loopback Interface 1"
+        enabled="false" isLoopBack="true" name="lo">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="kubernetes.docker.internal">
+            <ip value="127.0.0.1"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="0:0:0:0:0:0:0:1">
+            <ip value="0:0:0:0:0:0:0:1"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+    <lg-networkiface
+        description="Bluetooth Device (Personal Area Network)"
+        enabled="false" isLoopBack="false" name="eth0">
+        <!--****** LG ADDRESSES ******-->
+        <lg-address enabled="false" hostname="fe80:0:0:0:376e:5fd3:c788:5a85%eth0">
+            <ip value="fe80:0:0:0:376e:5fd3:c788:5a85%eth0"/>
+        </lg-address>
+        <!--****** END LG ADDRESSES ******-->
+    </lg-networkiface>
+</lg-host>
