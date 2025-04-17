@@ -1,0 +1,12 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Report View" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="91989883-97e0-45f0-8808-bbbac9be656f" weightsEnabled="false">
+    <weighted-embedded-action uid="ed4e193a-63ed-46f8-a859-efc5ddacfac1"/>
+    <weighted-embedded-action uid="3b9e87cc-938d-4b3c-805e-ff09a5130c49"/>
+    <weighted-embedded-action uid="4af9c975-82e3-4da1-a6ef-3705bc761178"/>
+    <weighted-embedded-action uid="7f0f4642-2deb-49ac-becd-110d01a22272"/>
+    <weighted-embedded-action uid="99f0555a-1adc-41c3-9e2e-f8a2c8057479"/>
+    <weighted-embedded-action uid="7cccff53-c7a9-4541-bcda-d4956cc1b87a"/>
+    <weighted-embedded-action uid="22ff096b-0378-4ea1-b345-4758b694c1fd"/>
+</basic-logical-action-container>
