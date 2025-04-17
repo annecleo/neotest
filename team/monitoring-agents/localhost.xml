@@ -37,8 +37,8 @@
         <lg-address enabled="false" hostname="2001:4451:244:4d00:2d1:97a8:d925:b3f">
             <ip value="2001:4451:244:4d00:2d1:97a8:d925:b3f"/>
         </lg-address>
-        <lg-address enabled="false" hostname="2001:4451:244:4d00:e43b:8525:1738:3d0e">
-            <ip value="2001:4451:244:4d00:e43b:8525:1738:3d0e"/>
+        <lg-address enabled="false" hostname="2001:4451:244:4d00:4a5:88d8:bf18:a23e">
+            <ip value="2001:4451:244:4d00:4a5:88d8:bf18:a23e"/>
         </lg-address>
         <lg-address enabled="false" hostname="fe80:0:0:0:2ead:ce1a:996:ece8%wireless_32768">
             <ip value="fe80:0:0:0:2ead:ce1a:996:ece8%wireless_32768"/>
