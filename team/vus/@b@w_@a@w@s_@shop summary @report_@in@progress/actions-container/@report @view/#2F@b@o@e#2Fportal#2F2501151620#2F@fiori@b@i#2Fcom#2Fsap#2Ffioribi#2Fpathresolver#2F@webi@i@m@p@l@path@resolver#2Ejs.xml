@@ -1,0 +1,1367 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/BOE/portal/2501151620/FioriBI/com/sap/fioribi/pathresolver/WebiIMPLPathResolver.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    slaProfileEnabled="false" thinkTime="2528"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="32dc7ef6-c4e4-49a8-8846-f6f174bc74f1">
+    <embedded-action>11d6c68a-0ce6-4d69-a497-06f3f8529f8c</embedded-action>
+    <embedded-action>28313b2d-d24d-4086-bd2e-0bcac2ed55ea</embedded-action>
+    <embedded-action>5fa5efda-1ca9-40dc-af71-04e0b82b4bb0</embedded-action>
+    <embedded-action>4963084d-c467-4b53-b590-314f3bcf143f</embedded-action>
+    <embedded-action>1465a830-fa52-4a22-b8da-1ed0300fca4e</embedded-action>
+    <embedded-action>a08d9561-eb80-4657-9a5b-df5d00e4ee49</embedded-action>
+    <embedded-action>244ae810-aa61-41a0-b23a-76ba183aaf5c</embedded-action>
+    <embedded-action>8790a585-fc00-4557-9c12-34f98310e99b</embedded-action>
+    <embedded-action>41891176-24b5-4cb5-ac90-af49f4695d4c</embedded-action>
+    <embedded-action>74085da3-921e-42d2-93fd-ab92e56259f9</embedded-action>
+    <embedded-action>cbfbc8f7-38a6-47d7-bcb4-d92df43ba347</embedded-action>
+    <embedded-action>e3d40acd-6b93-4899-a511-0ac267943829</embedded-action>
+    <embedded-action>5d753718-51e2-4517-ad44-1178dd3c0fbd</embedded-action>
+    <embedded-action>9bb6d13b-82a4-40da-b138-00f15f650fb2</embedded-action>
+    <embedded-action>f3c18cb2-1465-4584-be61-3e6909670da5</embedded-action>
+    <embedded-action>0e233a9b-e21e-44e0-890a-1f6dbe85a7d4</embedded-action>
+    <embedded-action>df3b0155-d08b-4f1f-bba4-9514c97f4fe6</embedded-action>
+    <embedded-action>87684a74-af34-444c-9ae1-bf2ed9412b7b</embedded-action>
+    <embedded-action>f0011a45-8df6-40a4-9b15-ee37aa95a10f</embedded-action>
+    <embedded-action>4107fdd4-decb-4018-9d09-5cc4642c3125</embedded-action>
+    <embedded-action>3e0cb8ef-c6a5-4937-8b27-3f0ab52b9b08</embedded-action>
+    <embedded-action>e695300c-1d48-42d7-94d1-5a8bc6eaf495</embedded-action>
+    <embedded-action>cd86a9df-d6ee-4796-b9fe-8c61fe7e7dc8</embedded-action>
+    <embedded-action>ef665c6a-8df5-4cc4-8f98-b8bba1f82d16</embedded-action>
+    <embedded-action>062094d7-bbf8-4c85-88ad-081fe39ca3b1</embedded-action>
+    <embedded-action>27f6ba87-6d2b-4afe-bc62-08f0857bdd9d</embedded-action>
+    <embedded-action>ebda8b86-3d39-47dd-8c7d-1604dbb76fa2</embedded-action>
+    <embedded-action>6cd6dab9-cef3-45ae-9b4a-24b42a6f1760</embedded-action>
+    <embedded-action>712606e9-d4a3-4d42-bfa5-4423065acc26</embedded-action>
+    <embedded-action>fb2e9a23-3e08-489d-a971-28d969e37d3a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_4d9827ce-e5ca-4235-b663-def46d4b41d6.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;1920-1736980654271&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:37:34 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/FioriBI/com/sap/fioribi/pathresolver/WebiIMPLPathResolver.js"
+    path="/BOE/portal/2501151620/FioriBI/com/sap/fioribi/pathresolver/WebiIMPLPathResolver.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="1920"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="11d6c68a-0ce6-4d69-a497-06f3f8529f8c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_196dc080-cf2b-46c8-b338-70789bcd3ef9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_196dc080-cf2b-46c8-b338-70789bcd3ef9.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:37:34 GMT&#xd;
+ETag: W/"1920-1736980654271"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 1920&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;1999-1736980754881&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/WebiCAFProvider.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/WebiCAFProvider.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="1999"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="28313b2d-d24d-4086-bd2e-0bcac2ed55ea" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_fba91a37-ad6e-43d7-bc84-65fa4c646c04</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_fba91a37-ad6e-43d7-bc84-65fa4c646c04.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"1999-1736980754881"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 1999&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;4975-1736980754952&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/Webi_Viewer.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/Webi_Viewer.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="4975"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="5fa5efda-1ca9-40dc-af71-04e0b82b4bb0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_17d7ab70-72f6-4e2b-b017-b2fe65a1086f</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_17d7ab70-72f6-4e2b-b017-b2fe65a1086f.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"4975-1736980754952"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 4975&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;2969-1736980754936&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerBIWorkspaceAction.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerBIWorkspaceAction.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="2969"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="4963084d-c467-4b53-b590-314f3bcf143f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8e485d8f-d928-4b6f-b77c-d7135fdd5567</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8e485d8f-d928-4b6f-b77c-d7135fdd5567.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"2969-1736980754936"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 2969&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;799-1736980754803&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/EventConstants.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/EventConstants.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="799"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="1465a830-fa52-4a22-b8da-1ed0300fca4e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_82bca118-61c0-40ad-96fe-488152155466</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_82bca118-61c0-40ad-96fe-488152155466.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"799-1736980754803"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 799&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;2014-1736980754904&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerCloseAction.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerCloseAction.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="2014"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="a08d9561-eb80-4657-9a5b-df5d00e4ee49" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_36883198-b9a6-4040-8b4f-8264ab80a64c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_36883198-b9a6-4040-8b4f-8264ab80a64c.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"2014-1736980754904"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 2014&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;810-1736980754988&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/lib/ContainerHelper.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/lib/ContainerHelper.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="810"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="244ae810-aa61-41a0-b23a-76ba183aaf5c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8d2fe751-5cf1-49d5-b08e-a83baa9f647a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8d2fe751-5cf1-49d5-b08e-a83baa9f647a.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"810-1736980754988"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 810&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;1456-1736980754887&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerKeepAliveAction.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerKeepAliveAction.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="1456"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="8790a585-fc00-4557-9c12-34f98310e99b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_07aaeedd-2cfe-48ac-86cf-3924e25fc2ee</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_07aaeedd-2cfe-48ac-86cf-3924e25fc2ee.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"1456-1736980754887"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 1456&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;387-1736980754936&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/WiseWingConstants.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/WiseWingConstants.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="387"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="41891176-24b5-4cb5-ac90-af49f4695d4c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2c8025d1-8faa-4cd9-a44e-4853cd18fbdf</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2c8025d1-8faa-4cd9-a44e-4853cd18fbdf.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"387-1736980754936"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 387&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;1049-1736980754919&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerOnCreateOccurrenceAction.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerOnCreateOccurrenceAction.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="1049"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="74085da3-921e-42d2-93fd-ab92e56259f9" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d20b402d-e516-40ec-bbc1-a3c288bd7ad3</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d20b402d-e516-40ec-bbc1-a3c288bd7ad3.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"1049-1736980754919"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 1049&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;1502-1736980754904&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerPreventRaylightLeakAction.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerPreventRaylightLeakAction.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="1502"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="cbfbc8f7-38a6-47d7-bcb4-d92df43ba347" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_656d54b1-2d19-4cb2-a46e-ac140cf27baf</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_656d54b1-2d19-4cb2-a46e-ac140cf27baf.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"1502-1736980754904"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 1502&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;1161-1736980754887&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerSetDocumentNameAction.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerSetDocumentNameAction.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="1161"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="e3d40acd-6b93-4899-a511-0ac267943829" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5884962d-655a-4100-97c7-738b59b2d344</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5884962d-655a-4100-97c7-738b59b2d344.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"1161-1736980754887"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 1161&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;703-1736980754924&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerThemeManager.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerThemeManager.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="703"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="5d753718-51e2-4517-ad44-1178dd3c0fbd" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0c9b479f-81c6-4690-920c-dcfe4f9fc88b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0c9b479f-81c6-4690-920c-dcfe4f9fc88b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"703-1736980754924"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 703&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;2190-1736980754867&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/ThemeUtils.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/ThemeUtils.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="2190"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="9bb6d13b-82a4-40da-b138-00f15f650fb2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9f9fd89a-43c4-4487-8bd4-768bacb55311</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9f9fd89a-43c4-4487-8bd4-768bacb55311.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"2190-1736980754867"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 2190&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;1648-1736980754904&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerUpdateViewTitleAction.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/action/ContainerUpdateViewTitleAction.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="1648"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="f3c18cb2-1465-4584-be61-3e6909670da5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f7c4ff3b-79d3-4469-bddb-68648d082b03</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f7c4ff3b-79d3-4469-bddb-68648d082b03.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"1648-1736980754904"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 1648&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;6265-1736980754988&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/lib/OpenWiseParametersHelper.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/lib/OpenWiseParametersHelper.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="6265"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="0e233a9b-e21e-44e0-890a-1f6dbe85a7d4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a5a4ca72-94ea-4968-bca7-471b8af2454c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a5a4ca72-94ea-4968-bca7-471b8af2454c.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"6265-1736980754988"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 6265&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;2250-1736980754795&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/ObjectUtils.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/ObjectUtils.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="2250"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="df3b0155-d08b-4f1f-bba4-9514c97f4fe6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6218a754-fd3b-44de-9010-7986efa5b475</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6218a754-fd3b-44de-9010-7986efa5b475.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"2250-1736980754795"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 2250&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;764-1736980754820&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/WiseAppConstants.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/wiselib/WiseAppConstants.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="764"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="87684a74-af34-444c-9ae1-bf2ed9412b7b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_35c815d7-2f47-4031-b2a1-cc467fce8ffc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_35c815d7-2f47-4031-b2a1-cc467fce8ffc.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"764-1736980754820"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 764&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;2631-1736980754988&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/lib/WRCZaboHelper.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/caf/unifiedviewer/lib/WRCZaboHelper.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="2631"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="f0011a45-8df6-40a4-9b15-ee37aa95a10f" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d7efc44b-9dc5-44d6-9d44-30fe3a3e6596</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d7efc44b-9dc5-44d6-9d44-30fe3a3e6596.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"2631-1736980754988"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 2631&#xd;
+Date: Thu, 03 Apr 2025 09:48:37 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/BOE/portal/2501151620/biprwsproxy/biprws/v1/cmsquery"
+    path="/BOE/portal/2501151620/biprwsproxy/biprws/v1/cmsquery"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="3034"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="4107fdd4-decb-4018-9d09-5cc4642c3125" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d2df0b02-ea74-4dc3-b544-d197bfbd0a02</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d2df0b02-ea74-4dc3-b544-d197bfbd0a02.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="pagesize" recordRawValue="50" separator="=" value="50" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en_US"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;odata=verbose"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Origin" value="https://bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <header name="X-SAP-LogonToken" value="awwsapbirap05.rails.rwy.bnsf.com:6400@{3&amp;2=401190,U3&amp;2v=awwsapbirap05.rails.rwy.bnsf.com:6400,UP&amp;66=40,U3&amp;68=secSAPR3:QB3~400/BOXBWSCH,UP&amp;S9=111302,U3&amp;qe=100,U3&amp;vz=CrSAI_TAE6Sn41zphIF2yP7KLb3fsX0wfBjxFDXhBoJtscftHVGRj5y6wfO6t1OG,UP}"/>
+    <header name="X-SAP-PVL" value="en_US"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 3034&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"query":"SELECT SI_DATA FROM CI_SYSTEMOBJECTS WHERE SI_ID='111302'"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/BOE/portal/2501151620/biprwsproxy/biprws/internal/v1/settings/myinfo/recentlyvieweddocs"
+    path="/BOE/portal/2501151620/biprwsproxy/biprws/internal/v1/settings/myinfo/recentlyvieweddocs"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="20"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="3e0cb8ef-c6a5-4937-8b27-3f0ab52b9b08" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ee0193bb-53b2-4c17-a912-91ea69a2fdc4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ee0193bb-53b2-4c17-a912-91ea69a2fdc4.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="pagesize" recordRawValue="50" separator="=" value="50" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;odata=verbose"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="CSRF_TOKEN_COOKIE" value="MDAwRGlmRFttRT9aNEhLQ0Iya1BaOkY1TVY6SmBdPTAAN"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Origin" value="https://bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <header name="x-SAP-logonToken" value="awwsapbirap05.rails.rwy.bnsf.com:6400@{3&amp;2=401190,U3&amp;2v=awwsapbirap05.rails.rwy.bnsf.com:6400,UP&amp;66=40,U3&amp;68=secSAPR3:QB3~400/BOXBWSCH,UP&amp;S9=111302,U3&amp;qe=100,U3&amp;vz=CrSAI_TAE6Sn41zphIF2yP7KLb3fsX0wfBjxFDXhBoJtscftHVGRj5y6wfO6t1OG,UP}"/>
+    <header name="X-SAP-PVL" value="en_US"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 20&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"id":"254931"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;37738-1736980757967&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:17 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/tinycolor/tinycolor.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/tinycolor/tinycolor.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="37738"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="e695300c-1d48-42d7-94d1-5a8bc6eaf495" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1a27600f-368c-4a62-b111-6f63034f0063</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1a27600f-368c-4a62-b111-6f63034f0063.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:17 GMT&#xd;
+ETag: W/"37738-1736980757967"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 37738&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;86578-1736980757938&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:17 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/requirejs/require.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/requirejs/require.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="86578"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="cd86a9df-d6ee-4796-b9fe-8c61fe7e7dc8" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3a04b08a-7d15-4371-9bc5-802cd82a2ec1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3a04b08a-7d15-4371-9bc5-802cd82a2ec1.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:17 GMT&#xd;
+ETag: W/"86578-1736980757938"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 86578&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;2586-1736980756888&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/designer/dhtml.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/designer/dhtml.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="2586"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="ef665c6a-8df5-4cc4-8f98-b8bba1f82d16" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aed81592-2ed1-4523-900f-507c4dc93fad</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aed81592-2ed1-4523-900f-507c4dc93fad.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:16 GMT&#xd;
+ETag: W/"2586-1736980756888"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 2586&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;936000-1736980757258&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:17 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/cvom/cvomviewer_sap.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/cvom/cvomviewer_sap.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="936000"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="062094d7-bbf8-4c85-88ad-081fe39ca3b1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2808b5b7-5229-4c66-bd1c-742263c6e429</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2808b5b7-5229-4c66-bd1c-742263c6e429.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:17 GMT&#xd;
+ETag: W/"936000-1736980757258"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 936000&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;53570-1736980756904&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:16 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/flapjack/flapjack4ui5.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/flapjack/flapjack4ui5.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="53570"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="27f6ba87-6d2b-4afe-bc62-08f0857bdd9d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b1520a74-ca27-4278-b9b7-601b02eb7c77</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b1520a74-ca27-4278-b9b7-601b02eb7c77.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:16 GMT&#xd;
+ETag: W/"53570-1736980756904"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 53570&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;91237-1736980757420&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:17 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/wise-jsapi/wise-jsapi.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/resources/wise-jsapi/wise-jsapi.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="91237"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="ebda8b86-3d39-47dd-8c7d-1604dbb76fa2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6e3a500c-075c-4a58-afbc-64629c486da6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6e3a500c-075c-4a58-afbc-64629c486da6.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:17 GMT&#xd;
+ETag: W/"91237-1736980757420"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 91237&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript;charset=UTF-8"
+    eTag="W/&quot;6122367-1736980754653&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/wise-app/Component-preload.js"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/wise-app/Component-preload.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="6cd6dab9-cef3-45ae-9b4a-24b42a6f1760" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6cd6dab9-cef3-45ae-9b4a-24b42a6f1760</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_628600df-27d8-41b9-8557-2ab9bb0f4401.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: max-age=315360000&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"6122367-1736980754653"&#xd;
+Content-Type: text/javascript;charset=UTF-8&#xd;
+Content-Length: 6122367&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    eTag="W/&quot;6561-1736980754620&quot;"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/wise-app/configKeys.json"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/wise-app/configKeys.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="6561"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="712606e9-d4a3-4d42-bfa5-4423065acc26" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1a36c87f-4678-4cad-a459-63fdba1da03c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1a36c87f-4678-4cad-a459-63fdba1da03c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="1743673719601" separator="="
+        value="1743673719601" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/javascript, */*; q=0.01"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"6561-1736980754620"&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 6561&#xd;
+Date: Thu, 03 Apr 2025 09:48:38 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    eTag="W/&quot;2-1736980754726&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Wed, 15 Jan 2025 22:39:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/BOE/portal/2501151620/AnalyticalReporting/webiNG/wise-app/config.json"
+    path="/BOE/portal/2501151620/AnalyticalReporting/webiNG/wise-app/config.json"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/32dc7ef6-c4e4-49a8-8846-f6f174bc74f1.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="fb2e9a23-3e08-489d-a971-28d969e37d3a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1084555a-47b5-4fbd-a3e5-bb5fb1f05ebe</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1084555a-47b5-4fbd-a3e5-bb5fb1f05ebe.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="t"
+        recordRawValue="1743673719965" separator="="
+        value="1743673719965" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/javascript, */*; q=0.01"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Last-Modified: Wed, 15 Jan 2025 22:39:14 GMT&#xd;
+ETag: W/"2-1736980754726"&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 2&#xd;
+Date: Thu, 03 Apr 2025 09:48:40 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

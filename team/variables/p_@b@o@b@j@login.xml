@@ -1,0 +1,3 @@
+<variable-file delimiters=";" filename="Test Data/BOBJ Login.csv" name="p_BOBJLogin" offset="1" order="3" policy="5" range="1" uid="30aea70c-835b-4071-8f39-e1c37ecd62f4" useFirstLine="false" whenOutOfValues="CYCLE_VALUES">
+<column name="Username" number="0"/>
+</variable-file>

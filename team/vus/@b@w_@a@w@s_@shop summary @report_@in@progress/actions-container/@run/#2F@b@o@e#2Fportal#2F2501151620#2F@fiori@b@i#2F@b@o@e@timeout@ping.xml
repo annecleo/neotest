@@ -1,0 +1,60 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/BOE/portal/2501151620/FioriBI/BOETimeoutPing"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/76c7b5b2-ad65-4d04-bf6d-7e4b2cb9a6bd.zip"
+    slaProfileEnabled="false" thinkTime="13377"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="76c7b5b2-ad65-4d04-bf6d-7e4b2cb9a6bd">
+    <embedded-action>377bd4eb-7a8a-4a2f-8d4e-02a73a3a8c66</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_e133bf6c-4346-45e1-bdd9-4d52f1e5facf.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/BOE/portal/2501151620/FioriBI/BOETimeoutPing"
+    path="/BOE/portal/2501151620/FioriBI/BOETimeoutPing"
+    postCharset="UTF-8" postType="1"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@in@progress/%resources%/recorded-artifacts/76c7b5b2-ad65-4d04-bf6d-7e4b2cb9a6bd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="377bd4eb-7a8a-4a2f-8d4e-02a73a3a8c66" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[cmVzZXRDb3VudGRvd249ZmFsc2UmbG9nb2ZmPWZhbHNlJmFwcEtpbmQ9SW5mb1ZpZXc=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_377bd4eb-7a8a-4a2f-8d4e-02a73a3a8c66</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c0c490f3-f3a0-407e-9cf4-69c53a92abfd.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="resetCountdown" recordRawValue="false" separator="="
+        value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="logoff"
+        recordRawValue="false" separator="=" value="false" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="appKind"
+        recordRawValue="InfoView" separator="=" value="InfoView" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="pagesize" recordRawValue="50" separator="=" value="50" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded; charset=UTF-8"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="CSRF_TOKEN_COOKIE" value="MDAwRGlmRFttRT9aNEhLQ0Iya1BaOkY1TVY6SmBdPTAAN"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Origin" value="https://bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/main.jsp?service=%2Fcommon%2FappService.do&amp;appKind=InfoView"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <header name="X-Requested-With" value="XMLHttpRequest"/>
+    <header name="X-SAP-PVL" value="en_US"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Content-Length: 92&#xd;
+Date: Thu, 03 Apr 2025 09:49:44 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

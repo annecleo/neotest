@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Path" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="f50d27f1-6e08-4944-9c38-37186e55ec74" weightsEnabled="false">
+    <weighted-embedded-action uid="6ce195dd-5f0e-4e56-be24-a049bf784f13"/>
+    <weighted-embedded-action uid="129a99ad-bf13-4229-ab0d-a217c6c80290"/>
+    <weighted-embedded-action uid="20b6175c-9026-4f81-9d45-162d7157dbc6"/>
+    <weighted-embedded-action uid="5abddf41-c171-47c4-a7f6-e0d06946791f"/>
+</basic-logical-action-container>

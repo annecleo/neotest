@@ -1,0 +1,51 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/BOE/portal/2501151620/biprwsproxy/biprws/v1/logoff"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@original/%resources%/recorded-artifacts/8cc0e19c-dac6-462e-92ab-645c831429ce.zip"
+    slaProfileEnabled="false" thinkTime="15"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8cc0e19c-dac6-462e-92ab-645c831429ce">
+    <embedded-action>3cd1bcb3-2bc4-44f7-8d96-ad14fe0063f0</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b905c0a7-f78b-4545-af8b-f0036d03880e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/xml;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="/BOE/portal/2501151620/biprwsproxy/biprws/v1/logoff"
+    path="/BOE/portal/2501151620/biprwsproxy/biprws/v1/logoff"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_@original/%resources%/recorded-artifacts/8cc0e19c-dac6-462e-92ab-645c831429ce.zip"
+    recordedResponseCode="401" responseSize="191"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="3cd1bcb3-2bc4-44f7-8d96-ad14fe0063f0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7a7d7480-a8dd-49e2-b51f-82403bf3f295.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7a7d7480-a8dd-49e2-b51f-82403bf3f295.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-type" value="application/json"/>
+    <header name="Cookie" value="JSESSIONID=1BDB15AEA58C9487990708F13B5DC889; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Origin" value="https://bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/RestLogoff.jsp"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <header name="x-SAP-logonToken" value="awwsapbirap05.rails.rwy.bnsf.com\x3a6400\x40\x7b3\x262\x3d401190,U3\x262v\x3dawwsapbirap05.rails.rwy.bnsf.com\x3a6400,UP\x2666\x3d40,U3\x2668\x3dsecSAPR3\x3aQB3\x7e400\x2fBOXBWSCH,UP\x26S9\x3d111302,U3\x26qe\x3d100,U3\x26vz\x3dCrSAI_TAE6Sn41zphIF2yP7KLb3fsX0wfBjxFDXhBoJtscftHVGRj5y6wfO6t1OG,UP\x7d"/>
+    <responseHeaders>HTTP/1.1 401 &#xd;
+Content-Type: application/xml;charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Date: Thu, 03 Apr 2025 09:51:14 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

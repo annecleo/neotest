@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Folders" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c2c41868-fea1-4c23-b7e5-7131e0b6deb5" weightsEnabled="false">
+    <weighted-embedded-action uid="1c5a7af5-4c17-4939-a566-34df771bf8fa"/>
+</basic-logical-action-container>

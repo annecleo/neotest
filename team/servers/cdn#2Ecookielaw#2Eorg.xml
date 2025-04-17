@@ -1,0 +1,4 @@
+<http-server hostname="cdn.cookielaw.org" port="443" ssl="true"
+    uid="cdn.cookielaw.org" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

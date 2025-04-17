@@ -1,0 +1,64 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/BOE/BI/logonNoSso.jsp" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_1/%resources%/recorded-artifacts/386e9b53-dfe9-402a-8a1c-a40bc60934e7.zip"
+    slaProfileEnabled="false" thinkTime="235"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="386e9b53-dfe9-402a-8a1c-a40bc60934e7">
+    <embedded-action>0caddfca-cb7b-4ef2-ae00-d9e011b95b9d</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_386e9b53-dfe9-402a-8a1c-a40bc60934e7.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/BOE/BI/logonNoSso.jsp"
+    path="/BOE/BI/logonNoSso.jsp" postType="6"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_1/%resources%/recorded-artifacts/386e9b53-dfe9-402a-8a1c-a40bc60934e7.zip"
+    recordedResponseCode="200" responseSize="645"
+    serverUid="bobjqa.bnsf.com" slaProfileEnabled="false"
+    uid="0caddfca-cb7b-4ef2-ae00-d9e011b95b9d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0caddfca-cb7b-4ef2-ae00-d9e011b95b9d.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0caddfca-cb7b-4ef2-ae00-d9e011b95b9d.txt</requestContentFileDescription>
+    <variable-extractor assertionOnNoMatch="true"
+        defaultValue="&lt;NOT FOUND>" displayMode="0" endsWithSimple=";"
+        extractFromVarNameAdv="" extractFromVarNameSimple=""
+        extractType="5" extractTypeAdv="0" extractTypeSimple="5"
+        matchNumber="1" matchNumberAdv="1" matchNumberSimple="1"
+        name="JSESSIONID"
+        refererUid="0caddfca-cb7b-4ef2-ae00-d9e011b95b9d"
+        regExp="JSESSIONID=(.*?);" regExpAdv="" setDefaultValue="true"
+        startsWithSimple="JSESSIONID=" template="$1$" templateAdv="$1$"
+        uid="1231a1b4-fd09-478e-9a3c-3f4cbb766d3f" xpath="">
+        <variable-extractor-group extract="true" occurs="1" pattern="" type="4"/>
+    </variable-extractor>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+Set-Cookie: JSESSIONID=1BDB15AEA58C9487990708F13B5DC889; Path=/BOE; Secure; HttpOnly&#xd;
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Expires: 0&#xd;
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Date: Thu, 03 Apr 2025 09:47:19 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

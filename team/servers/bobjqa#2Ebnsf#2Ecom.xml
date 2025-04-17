@@ -1,0 +1,8 @@
+<http-server hostname="bobjqa.bnsf.com" port="443" ssl="true"
+    uid="bobjqa.bnsf.com" urlrewriting-argument-name="sessionid"
+    urlrewriting-enabled="true" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";">
+    <authorization
+        password="B+Rl6bkNAoiUxR8MHdIm4mvJ7DE5Fba+e2nzNBl/TsHhDevcQuqXzr7lUwVYaoYJ$3"
+        realm="" scheme="Basic" userName=""/>
+</http-server>

@@ -1,0 +1,72 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/BOE/portal/2501151620/FioriBI/logoff.jsp_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_1/%resources%/recorded-artifacts/0ed07e11-88d5-43ef-836e-9b3062d04fae.zip"
+    slaProfileEnabled="false" thinkTime="1061"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0ed07e11-88d5-43ef-836e-9b3062d04fae">
+    <embedded-action>de88cc90-ecfd-49bb-94ed-316fe474084b</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_0ed07e11-88d5-43ef-836e-9b3062d04fae.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/BOE/portal/2501151620/FioriBI/logoff.jsp"
+    path="/BOE/portal/2501151620/FioriBI/logoff.jsp"
+    postCharset="iso-8859-1" postType="1"
+    recordedArtifactZipFileName="team/vus/@b@w_@a@w@s_@shop summary @report_1/%resources%/recorded-artifacts/0ed07e11-88d5-43ef-836e-9b3062d04fae.zip"
+    recordedResponseCode="200"
+    refererUid="d3fda3b0-3294-410b-a2a7-3fcf5d9cbc1f"
+    responseSize="1330" serverUid="bobjqa.bnsf.com"
+    slaProfileEnabled="false" uid="de88cc90-ecfd-49bb-94ed-316fe474084b" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[Y2xlYW5lZFVwPXRydWUmUmVzdExvZ09mZj10cnVlJmJ0dG9rZW49TURBd1JEOU9NMHhhUmtnUExNVUFCU1h6VTVhVzVnUHpNQlNiRVZYVFZwR1BqQUVRJmxvZ29udG9rZW49YXd3c2FwYmlyYXAwNS5yYWlscy5yd3kuYm5zZi5jb20lM0E2NDAwJTQwJTdCMyUyNjIlM0Q0MDExOTAlMkNVMyUyNjJ2JTNEYXd3c2FwYmlyYXAwNS5yYWlscy5yd3kuYm5zZi5jb20lM0E2NDAwJTJDVVAlMjY2NiUzRDQwJTJDVTMlMjY2OCUzRHNlY1NBUFIzJTNBUUIzJTdFNDAwJTJGQk9YQldTQ0glMkNVUCUyNlM5JTNEMTExMzAyJTJDVTMlMjZxZSUzRDEwMCUyQ1UzJTI2dnolM0RDclNBSV9UQUU2U240MXpwaElGMnlQN0tMYjNmc1gwd2ZCanhGRFhoQm9KdHNjZnRIVkdSajV5NndmTzZ0MU9HJTJDVVAlN0Qmd2Fjc3VybD1odHRwcyUzQSUyRiUyRmJvYmpxYS5ibnNmLmNvbSUyRkJPRSUyRnBvcnRhbCUyRjI1MDExNTE2MjAlMkZiaXByd3Nwcm94eSUyRmJpcHJ3cyZpc0Zpb3JpTGF1bmNocGFkPXRydWU=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_de88cc90-ecfd-49bb-94ed-316fe474084b.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_de88cc90-ecfd-49bb-94ed-316fe474084b.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cleanedUp"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="RestLogOff"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="bttoken"
+        recordRawValue="MDAwRD9OM0xaRkgPLMUABSXzU5aW5gPzMBSbEVXTVpGPjAEQ"
+        separator="=" value="${BT_Token}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="logontoken"
+        recordRawValue="awwsapbirap05.rails.rwy.bnsf.com%3A6400%40%7B3%262%3D401190%2CU3%262v%3Dawwsapbirap05.rails.rwy.bnsf.com%3A6400%2CUP%2666%3D40%2CU3%2668%3DsecSAPR3%3AQB3%7E400%2FBOXBWSCH%2CUP%26S9%3D111302%2CU3%26qe%3D100%2CU3%26vz%3DCrSAI_TAE6Sn41zphIF2yP7KLb3fsX0wfBjxFDXhBoJtscftHVGRj5y6wfO6t1OG%2CUP%7D"
+        separator="="
+        value="awwsapbirap05.rails.rwy.bnsf.com:6400@{3&amp;2=401190,U3&amp;2v=awwsapbirap05.rails.rwy.bnsf.com:6400,UP&amp;66=40,U3&amp;68=secSAPR3:QB3~400/BOXBWSCH,UP&amp;S9=111302,U3&amp;qe=100,U3&amp;vz=CrSAI_TAE6Sn41zphIF2yP7KLb3fsX0wfBjxFDXhBoJtscftHVGRj5y6wfO6t1OG,UP}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="wacsurl"
+        recordRawValue="https%3A%2F%2Fbobjqa.bnsf.com%2FBOE%2Fportal%2F2501151620%2Fbiprwsproxy%2Fbiprws"
+        separator="="
+        value="https://bobjqa.bnsf.com/BOE/portal/2501151620/biprwsproxy/biprws" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="isFioriLaunchpad" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Cookie" value="JSESSIONID=${JSESSIONID}; InfoViewPLATFORMSVC_COOKIE_TOKEN=; InfoViewPLATFORMSVC_COOKIE_CMS=%40bobjqa; InfoViewCE_SAPSys=; InfoViewCE_SAPCnt=; InfoViewPLATFORMSVC_COOKIE_USR=z0008f%40_OnY%40WWN80%40%23%2444; InfoViewPLATFORMSVC_COOKIE_AUTH=secSAPR3"/>
+    <header name="Host" value="bobjqa.bnsf.com"/>
+    <header name="Origin" value="https://bobjqa.bnsf.com"/>
+    <header name="Referer" value="https://bobjqa.bnsf.com/BOE/portal/2501151620/FioriBI/logoff.jsp"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;134&quot;, &quot;Not:A-Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;134&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 &#xd;
+X-FRAME-OPTIONS: SAMEORIGIN&#xd;
+Content-Type: text/html;charset=UTF-8&#xd;
+Content-Length: 1330&#xd;
+Date: Thu, 03 Apr 2025 09:51:14 GMT&#xd;
+Keep-Alive: timeout=60&#xd;
+Connection: keep-alive</responseHeaders>
+    <record-html-infos extractorOccurence="1" extractorRegExp="false" htmlType="2"/>
+</http-action>
